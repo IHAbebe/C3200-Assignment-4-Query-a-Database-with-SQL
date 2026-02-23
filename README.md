@@ -1,4 +1,17 @@
-# C3200-Assignment-4-Query-a-Database-with-SQL
+CS3200 - Assignment 4: SQL Queries
+This repo contains SQL queries for Assignment 4 in CS3200 Database Design. Each file answers one question from the assignment using the Media Database.
+Files:
+
+q1 - Last names and emails of customers who made purchases
+q2 - Album names and their artists
+q3 - Unique customer count per state
+q4 - States with more than 10 unique customers
+q5 - Artists with "symphony" in an album title
+q6 - Artists with MPEG tracks in Brazilian Music or Grunge playlists
+q7 - Count of artists with at least 10 MPEG tracks
+q8 - Playlists longer than 2 hours
+q9 - Top spending customer ranked by country
+
 
 <img width="1440" height="712" alt="image" src="https://github.com/user-attachments/assets/21d13425-8303-42ab-896d-db9be39d7486" />
 
